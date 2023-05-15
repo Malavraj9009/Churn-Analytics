@@ -1,2 +1,1 @@
-In this Repo, i have created some useful R program with focus on Baisc R programming, ML with R, Time series with R
-
+This repo contains some academic programs in R language. One folder with Time series analysis and other folder with Machine learning along with the input files.
